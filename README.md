@@ -1,6 +1,8 @@
 # ListaDeContatosAngular
 
 Este projeto foi gerado com o Angular CLI [Angular CLI](https://github.com/angular/angular-cli) versão 10.1.4.
+---
+Esta aplicação é uma simples lista de contatos feita em Angular, projeto desenvolvido no Bootcamp Frontend do IGTI 2020.
 
 ## Technologies
 
