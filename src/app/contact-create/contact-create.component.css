@@ -1,0 +1,14 @@
+.form{
+  padding: 1% 2% 0 2%;
+}
+
+mat-form-field{
+  width: 100%;
+}
+.actions>button{
+  margin-left: 1%;
+}
+:host{
+  display: block;
+  padding-bottom: 10%;
+}
