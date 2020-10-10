@@ -10,11 +10,10 @@ Este projeto foi gerado com o Angular CLI [Angular CLI](https://github.com/angul
 - TypeScript
 
 ---
-
-<img src="screenshots\contact-list-screenshot-1.png"/>
-<img src="screenshots\contact-list-screenshot-2.png"/>
-<img src="screenshots\contact-list-screenshot-3.png"/>
-<img src="screenshots\contact-list-screenshot-4.png"/>
-<img src="screenshots\contact-list-screenshot-5.png"/>
-
-
+<div style="diplay: inline"> 
+  <img src="screenshots\contact-list-screenshot-1.png"/>
+  <img src="screenshots\contact-list-screenshot-2.png"/>
+  <img src="screenshots\contact-list-screenshot-3.png"/>
+  <img src="screenshots\contact-list-screenshot-4.png"/>
+  <img src="screenshots\contact-list-screenshot-5.png"/>
+</div>
